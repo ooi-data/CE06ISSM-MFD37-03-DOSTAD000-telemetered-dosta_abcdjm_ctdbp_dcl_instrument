@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-MFD37-03-DOSTAD000-telemetered-dosta_abcdjm_ctdbp_dcl_instrument
 data_stream: CE06ISSM-MFD37-03-DOSTAD000-telemetered-dosta_abcdjm_ctdbp_dcl_instrument
-end_date: '2021-05-02T20:30:06.685Z'
-last_updated: '2021-05-05T11:41:44.946377'
+end_date: '2021-07-06T20:30:07.959Z'
+last_updated: '2021-07-19T21:00:25.422042Z'
 start_date: '2014-10-07T19:45:00.000Z'
-status: success
+status: pending
